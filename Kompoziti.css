@@ -17,18 +17,12 @@ ul {
 
 
 
-ul.a {
-  list-style-type: circle;
-}
-
-
-
-
 li {
   float: left;
 }
 
 li a {
+	font-size: 20px;
   display: block;
   color: white;			/* Barva pisave */
   text-align: center;	/* Poravnanost znotraj kvadrata */
@@ -42,18 +36,42 @@ li a:hover {
 
 h1 {
 background-image: url(https://t3.ftcdn.net/jpg/01/00/26/96/360_F_100269601_asf7SvP42M8aVhv9FvPOGdQWuGLwHcWh.jpg);
+font-size: 44px;
 margin: 0;
 color: white;
-tex-align: center;
+text-align: center;
 padding: 50px;}
 
+
+h2 {
+	font-size: 36px;
+	border-bottom-style: solid;
+	border-bottom-color: #58E1FF;
+	margin-bottom: 75px;
+	margin-top: 50px;
+}
+
+h3 {
+	font-size: 28px;
+	border-bottom-style: solid;
+	border-bottom-color: #58E1FF;
+	margin-bottom: 75px;
+	margin-top: 50px;
+}
+
+p {
+	font-style: italic;
+	font-size: 20px;
+	}
+	
+
 section {
-	width: 700px;
+	width: 1000px;
 	float: left;
 }
 
 
 
-h1 {font-size: 24px:}
-	p {font-style: italic;}
-	
+
+
+
