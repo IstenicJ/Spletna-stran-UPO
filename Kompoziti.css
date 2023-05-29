@@ -15,6 +15,15 @@ ul {
   background-color: #F56F46; /* barva pasu */
 }
 
+
+
+ul.a {
+  list-style-type: circle;
+}
+
+
+
+
 li {
   float: left;
 }
