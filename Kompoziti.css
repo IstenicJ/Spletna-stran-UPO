@@ -1,0 +1,50 @@
+body {
+	background-image: url(slike/Ozadje.svg);
+	background-height: 100%;
+	font-size: 18px;
+	fontfamily: Georgia;
+	color: white;
+	}
+	
+	
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F56F46; /* barva pasu */
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;			/* Barva pisave */
+  text-align: center;	/* Poravnanost znotraj kvadrata */
+  padding: 16px;		/* Definira širino pasu */
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FFD147; /* barva ob miški na elementu */
+}
+
+h1 {
+background-image: url(https://t3.ftcdn.net/jpg/01/00/26/96/360_F_100269601_asf7SvP42M8aVhv9FvPOGdQWuGLwHcWh.jpg);
+margin: 0;
+color: white;
+tex-align: center;
+padding: 50px;}
+
+section {
+	width: 700px;
+	float: left;
+}
+
+
+
+h1 {font-size: 24px:}
+	p {font-style: italic;}
+	
